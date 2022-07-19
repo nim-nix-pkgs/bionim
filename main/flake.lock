@@ -73,11 +73,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1658032130,
-        "narHash": "sha256-7xRpPSQ7LVoI2X/sz5PNpTT0Chbwd+O82NTVFPFR9PY=",
+        "lastModified": 1658201769,
+        "narHash": "sha256-qgcj0U90J4RfPZ6FkLqpFA042WvM6JJRadF0OhUiVQI=",
         "owner": "nim-nix-pkgs",
         "repo": "phylogeni",
-        "rev": "bf7d7cdc6f0d7f58ed7a08e0988d13944c9f48be",
+        "rev": "0493862a4106bed591d04af8c7e30c77ff758a67",
         "type": "github"
       },
       "original": {
