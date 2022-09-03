@@ -1,0 +1,10 @@
+
+src/bionim/fitch
+
+src/bionim/needlemanWunsch
+
+tests/tneedlemanWunsch
+
+tests/test_utils
+
+tests/test_deBruijn
