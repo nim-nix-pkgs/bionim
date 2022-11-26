@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1669418966,
-        "narHash": "sha256-vkx5EViysAbB1+uDnEvKvYzZVAd5dlqoVVf3lUX+CZA=",
+        "lastModified": 1669432144,
+        "narHash": "sha256-jwdS62OrMFY5Qa5RlX1UXRNK+QOY0scx1/APps8ABB0=",
         "owner": "nim-nix-pkgs",
         "repo": "bio_seq",
-        "rev": "e1b3015220c7006e1468be712e0e67262b82ca54",
+        "rev": "d2879893ea309623f0d85e703e0aa3b648f77dcc",
         "type": "github"
       },
       "original": {
@@ -299,11 +299,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1669431311,
-        "narHash": "sha256-NO7QXB7EBncVn2YJQpDaUYSxeMO5rK/xjvBkSixgfZs=",
+        "lastModified": 1669438244,
+        "narHash": "sha256-3rB5dD0KgMVe2yuSbmClIPKL+D6RnvPYC/q4U7H+GvA=",
         "owner": "nim-nix-pkgs",
         "repo": "phylogeni",
-        "rev": "929d75befcb2a395dbab27bd941512546c3c6d50",
+        "rev": "cd29ddf19896c825bc5b193aff1f0d4217a9fd7e",
         "type": "github"
       },
       "original": {
